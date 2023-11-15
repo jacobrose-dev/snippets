@@ -4,6 +4,7 @@ This is a repository of Python 3 files that generate, model or facilitate very s
 
 There is zero licensing attached to any of these "snippets", but credit is appreciated if you feel this has helped you.
 If you wish to credit me, please copy this next line, replacing the filenames with a Pythonic list of filenames used:
+
 Jacob Rose, jacob.r.rose96@gmail.com - [filename, filename, filename, etc.]
 
 Each file housed here can be run as a standalone program, and will more or less explain itself as it executes statements.
